@@ -6,6 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-docx = "1.1.2"
-jetscii = "0.5.3"
+docx-rs = "0.4.17"
 rand = "0.8.5"
